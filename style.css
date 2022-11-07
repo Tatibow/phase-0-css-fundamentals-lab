@@ -3,3 +3,55 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+p#featured-property {
+  font-size: 800px;
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: blueviolet;
+}
+
+#detailsdiv1 {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  margin-right: 150px;
+  margin-left: 100px;
+  background-color: aquamarine;
+}
+
+#detailsdiv2 {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  margin-right: 150px;
+  background-color: aquamarine
+}
+
+#detailsdiv3 {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  margin-right: 150px;
+  background-color: aquamarine
+}
+
+#detailsdiv4 {
+  float: left;
+  text-align: center;
+  padding: 12px;
+  margin-right: 150px;
+  background-color: aquamarine
+}
